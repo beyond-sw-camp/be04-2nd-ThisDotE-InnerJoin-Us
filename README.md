@@ -409,7 +409,7 @@ REFERENCES `user` ( `user_code` );
 # 4. 프로젝트 아키텍처
 
 <div align=center>
-<img src="https://github.com/ThisDotE/InnerJoinUs/assets/149561287/243efa0f-f023-4001-aa89-d697ad856374.png" width="800" height="500"/></h2>
+<img src="https://github.com/beyond-sw-camp/be04-2nd-ThisDotE-InnerJoin-Us/assets/149561287/80a93285-d165-410b-b440-ef1a240c6460.png" width="800" height="500"/></h2>
 </div>
 
 <br/>
