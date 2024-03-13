@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ This.e 2 ✨
+  ✨ This.e 2조 ✨
 </h1>
 
 <h2 align="center">
